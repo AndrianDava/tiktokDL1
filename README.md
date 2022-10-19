@@ -9,7 +9,7 @@ a very simple web version, to download the video in the best quality.
 - now you can use typescript locally.
 
 ## how to use the app locally with typescript? 🤔
-- `git clone ....`
+- `git clone https://github.com/zalazarc20/tiktokDL-typescript.git`
 - this installs the dependencies and the dev dependencies `npm install --only=dev`
 - start the server typescript with `npm run dev`
 - compile or transpile all typescript files to javascript, use `npm run build`
